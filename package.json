@@ -35,7 +35,7 @@
     "electron-log": "^4.4.8",
     "electron-progressbar": "^2.1.0",
     "electron-store": "^8.1.0",
-    "electron-updater": "^6.1.1",
+    "electron-updater": "^6.3.0",
     "fs-extra": "^10.0.0",
     "glob": "^8.0.3",
     "http-proxy-agent": "^5.0.0",

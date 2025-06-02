@@ -55,7 +55,7 @@
     "request": "^2.88.2",
     "ripgrep-wrapper": "^1.1.1",
     "safe-buffer": "^5.2.1",
-    "socket.io": "^4.7.2",
+    "socket.io": "^4.8.0",
     "socks-proxy-agent": "^6.1.1",
     "tar-stream": "^2.2.0",
     "transliteration": "^2.2.0",
